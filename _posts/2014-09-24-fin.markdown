@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hire a detective to find Finn the stolen boxer"
-subtitle:   "Weʼre raising £3,000 to Hire a detective to find Finn the stolen boxer"
+subtitle:   "Weʼre raising $3,000 to Hire a detective to find Finn the stolen boxer"
 date:       2014-09-24 12:00:00
 author:     "Dennis Fisher"
 header-img: "img/post-bg-06.jpg"
