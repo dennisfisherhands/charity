@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Help our friend Jay Clark"
+subtitle:   "Weʼre raising £15,000 to help our friend Jay Clark (BeMoreJay)"
+date:       2014-08-24 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-04.jpg"
+---
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-clark.jpg" alt="Post Sample Image">
+</a>
+
+<p>We want to help our friend Jay Clark who has pancreatic cancer. He was diagnosed in Oct 2015 when he was expecting his first child with his partner Caroline. We were overjoyed for Jay and Caroline that he was here to see his beautiful son Maxie born on Jan 9th 2016. </p>
+
+<p>More devastating news came in Feb 2016. Pancreatic cancer has a very low survival rate and is considered incurable. It had spread to Jay's liver and his doctors could only offer him palliative (end of life) care. Jay was 41. It was heart breaking when Jay broke the news to his close friends. He was so strong and offered comfort to everybody. He only asked for help to look after his son when he was gone. </p>
+
+<p>A month later his doctors decided the cancer hadn’t spread to his liver. His life expectancy was now looking so much better. The diagnosis was still terminal but we could dare to dream that he might see his son’s first Xmas. </p>
+
+<p>Jay’s rollercoaster experience continued when his mother died of cancer soon after. How much can anyone be expected to deal with? </p>
+
+<p>Jay and Caroline have been inspirational in the way they have dealt with everything and have written about their experience in the BeMoreJay blog: https://www.facebook.com/Bemorejay/ It’s actually written from Maxie’s perspective. (Mummy may be helping!) Maxie occasionally let’s Daddy post too. </p>
+
+<p>After a lot of painful treatment Jay found out on Oct 14th that the cancer has spread to his liver. It is beyond doubt now. He is currently on a course of palliative chemotherapy and researching alternative treatments that may produce a miracle. He wants to be here for Maxie’s first Xmas and make it amazing. It’s heartbreaking to write that it may be the only Xmas Jay gets to spend with Maxie.</p>
+
+<p>We want to raise as much money as possible to help this lovely family. It could be for healthcare expenses, a bucket list, something towards a trust fund for Maxie. It’s for them to do with exactly as they please to make their journey more bearable.
+</p>

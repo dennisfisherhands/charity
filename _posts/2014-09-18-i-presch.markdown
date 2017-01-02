@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Support Mia Presch from Great Corby."
+subtitle:   "Weʼre raising £5,000 to support Mia Presch from Great Corby, Carlisle, who has been diagnosed with Wilms tumour."
+date:       2014-09-18 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-05.jpg"
+---
+
+<p>On Thursday 8 th December Mia Presch our 3 year old neighbour was diagnosed with Wilms Tumour, a rare children's Kidney Cancer, which affects only about 70 children a year in the U.K.</p>
+
+<p>We have known Mia since she was a baby. She is a clever, adorable, beautiful little girl who likes to visit her neighbours, and has just started Great Corby School nursery.</p>
+
+<p>On Friday 16th December Mia is starting a four week course of chemotherapy, at the R.V.I in Newcastle, which will be followed by surgery to remove the tumour and one Kidney, and then more chemotherapy, so will involve regular 120 mile round trips to Newcastle.</p>
+
+<p>Our aim is to raise funds to support Mias parents and her one year old sister Darecy. We would also like to send her small regular treats to brighten her day and help make her stays in hospital more bearable.</p>
+
+<p>We are well aware that Christmas is approaching and is an expensive time of year, and every family is faced with their own needs, However if people would please consider making a financial donation, no matter how big or small to help support this family during this difficult period, it would be much appreciated.</p>
+
+<h2 class="section-heading">The Final Frontier</h2>
+
+<p>Thankyou </p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-presch.jpg" alt="Post Sample Image">
+</a>

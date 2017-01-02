@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Hire a detective to find Finn the stolen boxer"
+subtitle:   "Weʼre raising £3,000 to Hire a detective to find Finn the stolen boxer"
+date:       2014-09-24 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-06.jpg"
+---
+
+<p>
+This fund will help to find Finn by hiring a detective to find him ! Please give as I want to help his family to get Finn home where he belongs and to find the people who stole him !
+We need to stop this from happening again !
+Joy his mum is distraught and needs our help !
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-fin.jpg" alt="Post Sample Image">
+</a>
+</p>

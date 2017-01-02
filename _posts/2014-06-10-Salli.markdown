@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Help Salli pay some of her mortgage"
+subtitle:   "Weʼre raising $25,000 to Help Salli pay some of her mortgage, so she doesn't lose her family home"
+date:       2014-06-10 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>My friend Salli Grant sadly lost both of her children Jackson 17 and Millie 12 in a tragic traffic accident on the A36 near Salisbury on the 10th October this year, in her words "On October 10th my world ended" and if the Loss of her children wasn't bad enough the knock on effect of this unbelievable tragedy is that she has lost income from their loss. Salli is a self employed fitness instructor and runs a company called Happy Hearts providing Cardiac and Pulmonary rehabilitation to over 450 Members at 13 different locations around the Wiltshire, Dorset area. At the moment Salli is so grief stricken and full of overwhelming sadness that she is unable to carry out her role as instructor and as such she has no income and the reality is that within a few weeks she could lose her family home. Myself and Geoff Stokes are helping out with taking some of the classes at the moment but this is probably not a long term sustainable solution to the problem. I am totally indebted to Salli as she has saved mine and many others lives with her drive and enthusiasm for life, personally, for helping me back to Heart fitness and pulling me back from the edge of life after my Heart Attack.</p>
+
+<p>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-saili.jpg" alt="Post Saili Image">
+</a>
+</p>
+
+<p>My intention is along with other close friends and family and from the Happy Hearts community is to raise enough money over the next few weeks to help her to pay her mortgage for at least a few months until she can get the help and rehabilitation that she needs and perhaps help her to return to helping others at Happy Hearts and keep the only thing she has left............. her house. I am not asking for charity here and am not asking you to donate thousands of pounds any amount would be appreciated, if i and her family and others around her could pay the Mortgage we would but we cant, but i will not stand by and let Salli lose everything if you think you can help in any way please contact me or please donate as much as you can, it will all go to help keep her Childrens home. Thank you.</p>

@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Help the victims, families and communities of the Croydon"
+subtitle:   "Crowdfunding to help the victims, families and communities of the Croydon tram derailment"
+date:       2014-07-08 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-03.jpg"
+---
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-croydon.jpg" alt="Post Sample Image">
+</a>
+
+<p>On Wednesday 9 November 2016 a tram derailment occurred in Croydon killing seven people, the worst loss of life in tram or train incident in the UK since 2004. Alongside the fatalities, over 50 people suffered injuries when the tram derailed near Sandilands tram stop, some of which were life changing.</p>
+
+<p>The disaster has impacted not only on the passengers and their families, but also on the wider community living and working in the surrounding area. </p>
+
+<p>Many of those involved will require long-term emotional and financial support in the difficult months ahead. This is the official fund is to raise money to enable those directly affected by this tragedy, their families, and where appropriate, the wider community, to have access to ongoing care and support. </p>

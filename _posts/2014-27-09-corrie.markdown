@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Help find RAF Serviceman Corrie McKeague"
+subtitle:   "Weʼre raising £50,000 to help find RAF Serviceman Corrie McKeague"
+date:       2014-09-27 12:00:00
+author:     "Dennis Fisher"
+header-img: "img/post-bg-02.jpg"
+---
+
+<p>
+On Friday 23rd September British Serviceman, RAF Airman Corrie McKeague went for a night out in Bury St Edmunds, with his mates from their nearby RAF Base at Honnington.
+Corrie was last seen on CCTV in Bury St Edmunds town centre at 3:25am on Sat 24th September, walking in to a dead-end, loading bay area. Corrie has not been seen since.
+The Police investigation team, through a combination of lack of resources, intransigence and incompetence have failed to capture and process vital evidence and still lack the basic resources to efficiently process a tiny number of phone calls per week.
+After so many weeks of managing this search, Corrie's Mum, Nicola and his brothers Makeyan and Darroch are now desperately seeking your assistance to allow them to continue the search.
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-corrie.jpg" alt="Post Sample Image">
+</a>
+
+With your support we would like to use all funds to:
+1. Fund the appointment of a Private Investigator.
+2. Fund a data analyst to undertake the work the Police are not capable of resourcing. Collect, collate and analyse all of the information gathered so far and that will continue to be collected.
+3. Fund the associated costs of offering a reward (this has already been secured).
+4. The overhead cost of phone numbers and computer.
+5. Cover the additional costs of being away from home for Nicola, Darroch and Makeyan in order to maintain their presence in Bury St Edmunds, from their home in Scotland. The family are committed to keeping these costs low.
+We will have an independent accountant manage the record of receipts for all expenditure, which will be available publicly
+All donations will be gratefully received and faithfully applied in the continued search for Corrie. When we find Corrie, any remaining funds may be used for Corrie's possible care or will be donated to charities, including local Search team SULSAR.
+We desperately need your help to be able to bring Corrie home.
