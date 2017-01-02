@@ -14,7 +14,7 @@ The Police investigation team, through a combination of lack of resources, intra
 After so many weeks of managing this search, Corrie's Mum, Nicola and his brothers Makeyan and Darroch are now desperately seeking your assistance to allow them to continue the search.
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-corrie.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/post-corrie.JPG" alt="Post Sample Image">
 </a>
 
 With your support we would like to use all funds to:
