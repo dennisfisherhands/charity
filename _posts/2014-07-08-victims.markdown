@@ -8,7 +8,7 @@ header-img: "img/post-bg-03.jpg"
 ---
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-croydon.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/post-croydon.JPG" alt="Post Sample Image">
 </a>
 
 <p>On Wednesday 9 November 2016 a tram derailment occurred in Croydon killing seven people, the worst loss of life in tram or train incident in the UK since 2004. Alongside the fatalities, over 50 people suffered injuries when the tram derailed near Sandilands tram stop, some of which were life changing.</p>

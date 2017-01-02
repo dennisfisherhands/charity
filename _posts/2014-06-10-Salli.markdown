@@ -11,7 +11,7 @@ header-img: "img/post-bg-01.jpg"
 
 <p>
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-saili.jpg" alt="Post Saili Image">
+    <img src="{{ site.baseurl }}/img/post-saili.JPG" alt="Post Saili Image">
 </a>
 </p>
 

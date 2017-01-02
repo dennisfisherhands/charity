@@ -7,7 +7,7 @@ author:     "Dennis Fisher"
 header-img: "img/post-bg-04.jpg"
 ---
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-clark.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/post-clark.JPG" alt="Post Sample Image">
 </a>
 
 <p>We want to help our friend Jay Clark who has pancreatic cancer. He was diagnosed in Oct 2015 when he was expecting his first child with his partner Caroline. We were overjoyed for Jay and Caroline that he was here to see his beautiful son Maxie born on Jan 9th 2016. </p>

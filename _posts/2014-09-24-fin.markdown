@@ -13,6 +13,6 @@ We need to stop this from happening again !
 Joy his mum is distraught and needs our help !
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-fin.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/post-fin.JPG" alt="Post Sample Image">
 </a>
 </p>
