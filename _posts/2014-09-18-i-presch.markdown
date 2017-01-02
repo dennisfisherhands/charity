@@ -6,6 +6,9 @@ date:       2014-09-18 12:00:00
 author:     "Dennis Fisher"
 header-img: "img/post-bg-05.jpg"
 ---
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-presch.JPG" alt="Post Sample Image">
+</a>
 
 <p>On Thursday 8 th December Mia Presch our 3 year old neighbour was diagnosed with Wilms Tumour, a rare children's Kidney Cancer, which affects only about 70 children a year in the U.K.</p>
 
@@ -20,7 +23,3 @@ header-img: "img/post-bg-05.jpg"
 <h2 class="section-heading">The Final Frontier</h2>
 
 <p>Thankyou </p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-presch.JPG" alt="Post Sample Image">
-</a>
